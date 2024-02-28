@@ -13,6 +13,7 @@ The Sound parameters are as following:
 Pitch, Amplitude, Rhythm, Sound, Duration, Melodics
 
 For producing the Sound, I have worked with the program Sonic-Pi. Sonic Pi is a live coding environment based on the programming language Ruby.
+Find more information on Sonic Pi here: https://sonic-pi.net/
 
 You can find the Link to my Soundcloud here: https://soundcloud.com/sophie-hamann-381661734
 
